@@ -4,5 +4,5 @@ def check_result(sname, mark):
         return f"{sname} has passed the exam."
     else:
         return f"{sname} has failed the exam."
-print(check_result("Alice", 89))
+print(check_result("Alice", 40))
 
