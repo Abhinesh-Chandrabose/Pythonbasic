@@ -1,0 +1,3 @@
+Hello, this is a simple file write example.Hi!!
+This is an appended line.
+ Hi !! This is an appended line.

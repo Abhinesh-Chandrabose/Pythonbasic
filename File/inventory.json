@@ -1,0 +1,30 @@
+{
+    "product1": {
+        "qty": 55,
+        "price": 5
+    },
+    "product2": {
+        "qty": 2,
+        "price": 8
+    },
+    "Laptop": {
+        "qty": 6,
+        "price": 2563
+    },
+    "Mouse": {
+        "quantity": 5,
+        "price": 23.0
+    },
+    "Widget": {
+        "quantity": 45,
+        "price": 19.99
+    },
+    "Gadget": {
+        "quantity": 20,
+        "price": 45.5
+    },
+    "Apple": {
+        "quantity": 15,
+        "price": 0.5
+    }
+}
